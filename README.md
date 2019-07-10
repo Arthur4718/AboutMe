@@ -1,7 +1,7 @@
 # AboutMe
 A sample project develped in Kotlin to be used as a presentation card. 
 
-#Screenshots
+# Screenshots
 
 
-![](https://i.imgur.com/wrlsZz1.jpg)
+![](https://i.imgur.com/wrlsZz1.jpg =250x250)
