@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         btnContactInfo.setOnClickListener {
             val intent = Intent(Intent.ACTION_DIAL)
-            intent.data = Uri.parse("tel:0123456789")
+            intent.data = Uri.parse("tel:+5511976671346")
             startActivity(intent)
         }
 
