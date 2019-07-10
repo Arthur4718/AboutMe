@@ -4,4 +4,4 @@ A sample project develped in Kotlin to be used as a presentation card.
 # Screenshots
 
 
-![](https://i.imgur.com/wrlsZz1.jpg =250x250)
+![](https://i.imgur.com/wrlsZz1.jpg | width=100)
